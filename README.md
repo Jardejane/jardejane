@@ -1,8 +1,8 @@
 ### Olá! sou jardejane 👋
 
 
-- 🔭 DEsenvolvedora full stack
-- 🌱 Estudando html/css
+- 🔭 Desenvolvedora full stack
+- 🌱 Estudando na Blue EdTech
 - 😄 Pronouns; ela/dela
 
 <div align="center">
@@ -16,6 +16,8 @@
   <img align="center" alt="jane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="jane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jane-NODE.js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
+  <img align="center" alt="jane-API.js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png">
 </div>
 
 ##
