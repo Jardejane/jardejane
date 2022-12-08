@@ -1,9 +1,4 @@
-### Olá! sou jardejane 👋
-
-
-- 🔭 Desenvolvedora full stack
-- 🌱 Estudando na Blue EdTech
-- 😄 Pronouns; ela/dela
+### Olá! Bem vindo!!
 
 <div align="center">
   <a href="https://github.com/jardejane">
@@ -18,14 +13,18 @@
   <img align="center" alt="jane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jane-NODE.js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
   <img align="center" alt="jane-API.js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png">
+  <img align="center" alt="jane-typeScript" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png">
+  <img align="center" alt="jane-nestjs" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png">
+  <img align="center" alt="jane-axios" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/axios_logo_icon_168545.png">
+  <img align="center" alt="jane-redux" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/redux_original_logo_icon_146365.png">
+  <img align="center" alt="jane-postgreSql" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/postgresql_plain_wordmark_logo_icon_146390.png">
+  <img align="center" alt="jane-cloud" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2622/PNG/96/brand_google_cloud_platform_icon_158881.png">
 </div>
 
 ##
  
-<div> 
-  <a href="https://www.instagram.com/jarde.jane/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Apmpt7mF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:janefeitosalima49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>   
+  <a href = "mailto:jardejanecurriculos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jardejane-feitosa-lima-60a6851a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/jardejane/jardejane/blob/output/github-contribution-grid-snake.svg)
